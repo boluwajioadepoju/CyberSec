@@ -92,7 +92,7 @@ Cybersec is provided in JSON Lines (JSONL) format for straightforward integratio
 
 ### Curation Rationale
 
-The dataset was developed to address the increasing need for high-quality labeled data in cybersecurity. By consolidating data from multiple, diverse sources—both real incidents and synthetic scenarios—Open-MalSec provides a robust foundation for training, evaluating, and benchmarking AI models focused on threat detection and mitigation.
+The dataset was developed to address the increasing need for high-quality labeled data in cybersecurity. By consolidating data from multiple, diverse sources—both real incidents and synthetic scenarios—CyberSec provides a robust foundation for training, evaluating, and benchmarking AI models focused on threat detection and mitigation.
 
 ### Source Data
 
